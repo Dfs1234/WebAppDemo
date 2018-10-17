@@ -10,4 +10,4 @@ Steps to make a pull request:
 * __git add .__ (to see how to add all the changes) or __git add__ <filename> (To add specific chnages)
 * __git commit -m "enter a commit message explaining your commit"__
 * __git push__
-  7. After pushing the changes go to the repository in your account. On the top of list of files a message will say that your repo is certain commits ahead of original repo and on the right side there will be a __pull request__ button. Click it to make a pull request.
+7. After pushing the changes go to the repository in your account. On the top of list of files a message will say that your repo is certain commits ahead of original repo and on the right side there will be a __pull request__ button. Click it to make a pull request.
