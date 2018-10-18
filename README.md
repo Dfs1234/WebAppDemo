@@ -1,13 +1,27 @@
-# WebAppDemo
+# Login
 
-Steps to make a pull request:
-1. Click the "__Fork__" button on the top right corner to copy a version of this repo to your account.
-2. __Clone__ the repo you just forked to your local machine. 
-3. make an _upstream_ to this by using this command: __git remote add upstream *link of this repository*__
-4. Make the changes you want.
-5. Track your chanegs using: __git status__
-6. To add the changes to your remote repository follow these commands:
-* __git add .__ (to see how to add all the changes) or __git add *filename*__ (To add specific chnages)
-* __git commit -m "enter a commit message explaining your commit"__
-* __git push__
-7. After pushing the changes go to the repository in your account. On the top of list of files a message will say that your repo is certain commits ahead of original repo and on the right side there will be a __pull request__ button. Click it to make a pull request.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
